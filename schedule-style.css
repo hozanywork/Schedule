@@ -1,0 +1,41 @@
+table, th, td{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  color: rgb(64, 64, 64);
+  padding: 10px;
+}
+
+th {
+  background-color: rgb(200, 200, 200)
+}
+
+.time {
+  font-weight: 700;
+  background-color: rgb(102, 255, 102)
+}
+
+.aupp {
+  background-color: rgb(102, 178, 255)
+}
+
+.blank {
+  border: none;
+  background-color: rgb(255, 153, 51)
+}
+
+.break {
+  text-align: center;
+  font-style: italic;
+}
+
+.self-study {
+  background-color: rgb(255, 255, 51)
+}
+
+.workout {
+  text-align: center;
+  background-color: rgb(255, 51, 51)
+}
